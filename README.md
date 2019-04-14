@@ -4,8 +4,8 @@ Description
 
 An [xxhash](https://github.com/Cyan4973/xxHash) binding for [node.js](http://nodejs.org/).
 
-[![Build Status](https://travis-ci.org/mscdex/node-xxhash.svg?branch=master)](https://travis-ci.org/mscdex/node-xxhash)
-[![Build status](https://ci.appveyor.com/api/projects/status/y2f8pisjshf4g181)](https://ci.appveyor.com/project/mscdex/node-xxhash)
+[![Build Status](https://travis-ci.org/takase1121/node-xxhash.svg?branch=master)](https://travis-ci.org/takase1121/node-xxhash)
+[![Build status](https://ci.appveyor.com/api/projects/status/x27uyb9vvglmokbr?svg=true)](https://ci.appveyor.com/project/takase1121/node-xxhash)
 
 
 Requirements
